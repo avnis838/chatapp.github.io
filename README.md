@@ -42,4 +42,20 @@ If someone sends the message, broadcast it to other people.
 
 3.After the extension gets installed navigate to index.html and open it to edit.
 
-4.Right click anywhere in the file index.html and from the menu th
+4.Right click anywhere in the file index.html and from the menu that appears select Open with Live server.
+
+5.A instance of the application will appear in the browser.
+
+6.Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
+
+# User Log in Prompt
+<img width="960" alt="2022-07-21" src="https://user-images.githubusercontent.com/88128030/180169598-54e59ef4-7287-461f-8bc4-d75f5ffdb071.png">
+
+# Ram portal
+<img width="960" alt="2022-07-21 (2)" src="https://user-images.githubusercontent.com/88128030/180169553-6621197b-06e1-429f-9158-1e63dc7b8ccb.png">
+
+# Raj Portal
+<img width="960" alt="2022-07-21 (3)" src="https://user-images.githubusercontent.com/88128030/180169579-4f0cac9f-0b3d-43c3-ae51-14faf8e52b47.png">
+
+# Ram left<img width="960" alt="2022-07-21 (1)" src="https://user-images.githubusercontent.com/88128030/180169497-f08d7a07-4563-4226-b3e0-a700a5f9b810.png">
+
