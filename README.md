@@ -35,10 +35,12 @@ If a new user joins, let the other users connected with server know.
 
 If someone sends the message, broadcast it to other people.
 
+There is option to add emojis in message area other than from using "Window + .".
+
 # Process to run the app
 1.Run nodemon nodeserver/index.js
 
-2.Install the extension 'live server' for Vs Code. Extension Id - ritwickdey.liveserver
+2.Install the extension 'live server' for Vs Code.
 
 3.After the extension gets installed navigate to index.html and open it to edit.
 
