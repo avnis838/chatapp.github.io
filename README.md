@@ -57,5 +57,7 @@ If someone sends the message, broadcast it to other people.
 # Raj Portal
 <img width="960" alt="2022-07-21 (3)" src="https://user-images.githubusercontent.com/88128030/180169579-4f0cac9f-0b3d-43c3-ae51-14faf8e52b47.png">
 
-# Ram left<img width="960" alt="2022-07-21 (1)" src="https://user-images.githubusercontent.com/88128030/180169497-f08d7a07-4563-4226-b3e0-a700a5f9b810.png">
+# Ram left
+<img width="960" alt="2022-07-21 (4)" src="https://user-images.githubusercontent.com/88128030/180170156-1c0fd2cb-159d-4721-910c-4a29c8fe5cdb.png">
+
 
