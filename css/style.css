@@ -1,0 +1,160 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,800;1,400&family=Edu+VIC+WA+NT+Beginner:wght@700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    
+}
+
+
+
+.logo {
+    display: block;
+    margin: 20px auto;
+    transform-style: flat;
+    height: 44px;
+    width: 44px;
+}
+
+h1 {
+    
+    text-align: center;
+    margin: 10px;
+    text-transform: uppercase;
+    color: rgb(244, 191, 69);
+            
+            letter-spacing: 8px;
+            margin-bottom: 20px;
+            
+            position: relative;
+            animation: text;
+            animation-duration: 0.7s;
+    }
+@keyframes text {
+            0% {
+                color: rgb(149, 113, 29);
+                transform: scale(1,1);
+            }
+            
+            50%{
+                color: rgb(244, 191, 69);
+                transform: scale(1.5,1.5);
+            }
+
+            100%{
+                color: rgb(244, 191, 69);
+                transform: scale(1,1);
+            }
+        }
+
+.container {
+    width: 80%;
+    margin: auto;
+    height: 60vh;
+    padding: 10px;
+    border: 2px solid rgb(249, 155, 15);
+    overflow-y: auto;
+    margin-bottom: 23px;
+    border-radius: 2px;
+    background-color: rgb(252, 224, 192);
+}
+
+.message {
+    background-color: rgb(246, 238, 213);
+    width: 30%;
+    padding: 10px;
+    margin: 17px 5px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.left {
+    box-shadow: -0px -5px 5px rgb(179, 128, 45);
+    float: left;
+    clear: both;
+    align-items: center;
+}
+
+.right {
+    box-shadow: 0px 5px 5px rgb(179, 128, 45);
+    float: right;
+    clear: both;
+    align-items: center;
+}
+
+.center {
+    background-color: rgb(246, 238, 213);
+    color: rgb(241, 174, 93);
+    width: 20%;
+    padding: 7px;
+    border: 3px white solid;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 5px auto;
+    clear: both;
+    text-align: center;
+}
+
+.send {
+    margin-top: 10px;
+    width: 100%;
+}
+
+#send-container {
+    text-align: center;
+    max-width: 985px;
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+
+
+body {
+    height: 100vh;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(239, 174, 88));
+}
+
+#messageInp {
+    width: 92%;
+    border: none;
+    font-size: 20px;
+    border-radius: 6px;
+    height: 34px;
+    outline: none;
+    padding: 0px 10px;
+}
+
+.btn {
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    padding: 2px 5px;
+    margin: 5px;
+    height: 34px;
+}
+
+.btn:hover {
+
+    border: 2px solid rgb(84, 69, 50);
+}
+
+
+#animationelement {
+    background: url("http://i.imgur.com/mjXfKJP.png") no-repeat center;
+    
+    height: 190px;
+    width: 200px;
+    margin: 10px auto;
+    animation-name:bounce;
+    animation-duration: 0.7s;
+}
+
+#animationelement:hover {
+    animation-name:bounce;
+    animation-duration: 0.7s;
+}
+
+
